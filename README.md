@@ -32,7 +32,7 @@
 * [示例 \(100%\)-谢俊琨](guides/examples.md)
 
 ### Chat bot
-* [通用机器人 \(0%\)-王卓航](Chat Bots-UniversalBot)
+* [universal bot \(0%\)-王卓航](Chat Bots-UniversalBot.md)
 * [Dialogs \(0%\)]()
 * [Sesion \(0%\)]()
 * [Prompts \(0%\)]()
